@@ -4,7 +4,7 @@
     "Message": null,
     "HasError": false,
     "IsLogOutRequired": false,    
-    "Data": [{"GiftID":145,"DisplayName":"2 certificados de masaje","IsOpenPrice":false,"FolioType":3,"CurrencyID":484,"ResortIDs":[60],"EntityTypeIDs":[26],"Prices":[{"ID":1,"DisplayName":"Publico","Price":0.0000},{"ID":2,"DisplayName":"Promo","Price":0.0000},{"ID":3,"DisplayName":"Costo","Price":0.0000},{"ID":4,"DisplayName":"Owner","Price":0.0000}]}}]
+    "Data":[]
   }
 
   ]
