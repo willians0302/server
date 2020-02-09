@@ -1,6 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" } 
+  {
+    "Message": null,
+    "HasError": false,
+    "IsLogOutRequired": false,
+    "Data": "[{\"GiftID\":145,\"DisplayName\":\"2 certificados de masaje\",\"IsOpenPrice\":false,\"FolioType\":3,\"CurrencyID\":484,\"ResortIDs\":[60],\"EntityTypeIDs\":[26],\"Prices\":[{\"ID\":1,\"DisplayName\":\"PÃºblico\",\"Price\":0.0000},{\"ID\":2,\"DisplayName\":\"Promo\",\"Price\":0.0000},{\"ID\":3,\"DisplayName\":\"Costo\",\"Price\":0.0000},{\"ID\":4,\"DisplayName\":\"Owner\",\"Price\":0.0000}]},{\"GiftID\":146,\"DisplayName\":\"2 tickets en beach boy\",\"IsOpenPrice\":false,\"FolioType\":3,\"CurrencyID\":484,\"ResortIDs\":[60],\"EntityTypeIDs\":[26],\"Prices\":[{\"ID\":1,\"DisplayName\":\"PÃºblico\",\"Price\":0.0000},{\"ID\":2,\"DisplayName\":\"Promo\",\"Price\":0.0000},{\"ID\":3,\"DisplayName\":\"Costo\",\"Price\":0.0000},{\"ID\":4,\"DisplayName\":\"Owner\",\"Price\":0.0000}]}
+}]"
+}
+
   ]
 }
